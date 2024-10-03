@@ -1,3 +1,6 @@
 [submodule "solpass-server"]
 	path = solpass-server
 	url = https://github.com/sheriff10/solpass-server.git
+[submodule "solpass-frontend"]
+	path = solpass-frontend
+	url = https://github.com/Sheriff10/solpass-frontend.git
